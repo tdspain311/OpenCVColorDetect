@@ -1,0 +1,5 @@
+include ':app'
+include ':libraries:opencv'
+include ':openCVLibrary2410'
+include ':openCVSamplecolorblobdetection'
+
